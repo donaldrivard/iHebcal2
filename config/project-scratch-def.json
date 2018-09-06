@@ -1,0 +1,8 @@
+{
+    "orgName": "drivard Company",
+    "edition": "Developer",
+    "features": ["ExpandedSourceTracking","API","AuthorApex"],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
