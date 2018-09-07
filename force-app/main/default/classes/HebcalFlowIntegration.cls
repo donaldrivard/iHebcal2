@@ -1,7 +1,7 @@
 public class HebcalFlowIntegration {
-
+    //Class to be called from Process Builder
     public class DateParameters{
-        //Need to make this generic 
+        
         @InvocableVariable(required=true)
         public Id ObjectID;
         
